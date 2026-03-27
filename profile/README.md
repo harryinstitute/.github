@@ -1,12 +1,25 @@
-## Hi there 👋
+# Harryinstitute - 学术与课程探索组织 🎓
 
-<!--
+## 仓库定位
+`harryinstitute` 是一个**非生产性、学术探索导向**的组织，定位类似高校/研究院实验室。这里主要沉淀和维护：
+- 大学课程作业、课程设计与实验项目
+- 技术训练营/竞赛的结营作品
+- 学科学习笔记、课程攻略（如期末复习资料、知识点总结）
+- 个人技术探索与验证性小项目
 
-**Here are some ideas to get you started:**
+所有项目均为**学习过程产物**，不具备工业级生产环境可用性，核心价值在于知识积累与技术实践。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+## 项目说明
+- **非生产性声明**：本组织下所有项目均为**学习、实验或竞赛用途**，未经过严格的性能、安全与稳定性测试，**不建议直接用于生产环境**。
+- **知识沉淀属性**：项目代码与文档更多是「学习过程的记录」，包含课程知识点、实验思路与踩坑总结，可作为同类课程学习的参考资料。
+- **探索性导向**：部分项目为技术尝鲜与验证性开发，用于快速验证技术方案或学习新框架/语言。
+
+## 使用建议
+1.  **学习参考**：可将本仓库作为课程学习、技术入门的参考案例，结合自身需求进行二次学习与改造。
+2.  **课程攻略**：若存在对应课程的笔记/攻略文档，可直接查阅用于复习或预习。
+3.  **二次开发**：如需基于现有项目进行扩展，请充分理解代码逻辑，并做好充分测试。
+
+## 贡献与协作
+本组织主要为个人学习与课程项目维护，暂不接受外部直接贡献。若你发现问题或有改进建议，可通过 Issue 提交反馈，我会在学习之余逐步优化。
+
